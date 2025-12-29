@@ -16,3 +16,10 @@ The focus is on understanding how supply, inflation, emissions,
 and incentives affect long-term sustainability.
 
 This work is research-driven and evolves over time.
+## Related Work
+
+- Tokenomics Case Studies:
+  https://github.com/USERNAME/tokenomics-case-studies
+
+This repository contains applied case studies exploring
+token supply models and incentive risks.
