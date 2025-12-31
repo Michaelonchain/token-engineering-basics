@@ -1,3 +1,4 @@
+This repo demonstrates how I design and analyze token supply for early-stage Web3 projects.
 # token-engineering-basics
 A clear and practical introduction to token engineering, tokenomics design, simulation, and crypto-economic analysis for new and growing Web3 projects.
 ## Work in Progress
